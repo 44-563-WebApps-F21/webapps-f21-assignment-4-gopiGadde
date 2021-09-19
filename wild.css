@@ -1,24 +1,24 @@
 .speech{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: black;
-    font-size: 20px;
+    font-size: 16px;
 }
 .stage-direction :hover{
     font-family: 'Times New Roman', Times, serif;
     color:rgba(0, 139, 139, 0.137);
-    font-size: 18px ;
+    font-size: 16px ;
 }
 .name{
-    font-family:fantasy;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     color: black;
-    font-size: 22px;
+    font-size: 16px;
 }
 .DUMBY{
     color: blue;
 }
-.LORD AUGUSTUS{
-    color: aliceblue;
+.AUGUSTUS{
+    color: rgba(34, 120, 196, 0.801);
 }
-.CECIL GRAHAM{
+.GRAHAM{
     color: darkgreen;
 }
