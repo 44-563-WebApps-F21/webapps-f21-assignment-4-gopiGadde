@@ -3,15 +3,21 @@
     color: black;
     font-size: 16px;
 }
-.stage-direction :hover{
+.stage-direction{
     font-family: 'Times New Roman', Times, serif;
-    color:rgba(0, 139, 139, 0.137);
+    color:rgb(0, 139, 139);
     font-size: 16px ;
+}
+.stage-direction:hover{
+    color: burlywood;
 }
 .name{
     font-family:Georgia, 'Times New Roman', Times, serif;
     color: black;
     font-size: 16px;
+}
+.name:hover{
+    color: coral;
 }
 .DUMBY{
     color: blue;
