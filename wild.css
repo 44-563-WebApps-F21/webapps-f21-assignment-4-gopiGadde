@@ -22,3 +22,23 @@
 .GRAHAM{
     color: darkgreen;
 }
+
+
+
+table{
+    width: 50%;
+    border: 1px solid blue;
+    text-align: center;
+    border-collapse: collapse;
+}
+th{
+    height: 70px;
+    text-align: center;
+    border:2px solid green;
+}
+ td{
+    
+    border:2px solid gold;
+    width: 100%;
+    text-align: center;
+}
